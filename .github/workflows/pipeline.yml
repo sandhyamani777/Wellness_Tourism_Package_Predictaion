@@ -1,9 +1,6 @@
 name: Wellness Tourism Project Pipeline
 
 on:
-  push:
-    branches:
-      - main  # Automatically triggers on push to the main branch
   workflow_dispatch:
   
 jobs:
